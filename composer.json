@@ -18,6 +18,8 @@
         "composer/installers": "^1.9",
         "drupal/admin_toolbar": "^2.2",
         "drupal/adminimal_theme": "^1.5",
+        "drupal/chosen": "^2.0",
+        "drupal/coder": "^8.3",
         "drupal/commerce": "^2.20",
         "drupal/commerce_email": "^1.0@beta",
         "drupal/commerce_stock": "^1.0@alpha",
@@ -25,14 +27,19 @@
         "drupal/core-project-message": "^8.9",
         "drupal/core-recommended": "^8.9",
         "drupal/devel": "^2.1",
+        "drupal/module_filter": "^3.1",
         "drupal/paragraphs": "^1.12",
         "drupal/pathauto": "^1.8",
         "drupal/redirect": "^1.6",
         "drupal/rest_export_nested": "^1.0@alpha",
         "drupal/rest_password": "^1.6",
         "drupal/restui": "^1.18",
+        "drupal/token": "^1.5",
         "drupal/user_registrationpassword": "^1.0@alpha",
-        "drupal/views_field_view": "^1.0@beta"
+        "drupal/views_field_view": "^1.0@beta",
+        "drupal/webform": "^5.6",
+        "dealerdirect/phpcodesniffer-composer-installer": "^0.7.0",
+        "drush/drush": "^10.1"
     },
     "conflict": {
         "drupal/drupal": "*"
