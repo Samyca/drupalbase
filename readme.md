@@ -1,25 +1,27 @@
-#Drupal Base
+Drupal Base
+=
 
 The following are basic instructions for installing Drupal.
 
-##Clone Project
+Clone Project
+-
 
 ```
 git clone git@github.com:Samyca/drupalbase.git
 cd drupalbase
 ```
 
-##Install Project
+Install Project
+-
 
 ```
 composer install
 ```
 
-##Utils
-####Installing Coder Sniffer
+Utils
+-
+**Installing Coder Sniffer**
 https://www.drupal.org/node/1419988
 
-####PHP CodeSniffer - Command Line Usage
+**PHP CodeSniffer - Command Line Usage**
 https://www.drupal.org/node/1587138
-
-
